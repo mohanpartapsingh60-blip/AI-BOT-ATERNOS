@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "krishna92110-jWK1.aternos.me",
-    "port": 41617,
+    "ip": "krishna121.aternos.me",
+    "port": 22330,
     "version": "1.16.1",
     "try-creative": false
   },
